@@ -13,7 +13,8 @@
   <img align="center" alt="Thais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
     
-   <img src="https://raw.githubusercontent.com/thaistrindad/thaistrindad/main/rato.gif"/>
+  <img align="center" alt="Juan-Csharp" height="80" width="80" src="https://raw.githubusercontent.com/Xuan002/Xuan002/main/rato.gif">
+
     
    <br>![Snake animation](https://github.com/thaistrindad/thaistrindad/blob/output/github-contribution-grid-snake.svg)
 
