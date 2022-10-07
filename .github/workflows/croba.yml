@@ -1,4 +1,4 @@
-name: Generate Datas
+name: minhoca
 
 on:
   schedule: # execute every 12 hours
