@@ -13,8 +13,6 @@
   <img align="center" alt="Thais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
     
-  
-    
    <br>![Snake animation](https://github.com/thaistrindad/thaistrindad/blob/output/github-contribution-grid-snake.svg)
-   <img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.giphy.com/media/Rm3AzqiTqGhx8gjeKu/giphy.gif)" width="100%" height="100%"/>
+
   
