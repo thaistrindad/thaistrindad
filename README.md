@@ -13,7 +13,7 @@
   <img align="center" alt="Thais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
     
-     <img href="https://giphy.com/stickers/PMStudios-rat-sitting-sit-Rm3AzqiTqGhx8gjeKu">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
     
    <br>![Snake animation](https://github.com/thaistrindad/thaistrindad/blob/output/github-contribution-grid-snake.svg)
    
