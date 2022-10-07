@@ -13,4 +13,8 @@
   <img align="center" alt="Thais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
     
+     <img href="https://giphy.com/stickers/PMStudios-rat-sitting-sit-Rm3AzqiTqGhx8gjeKu">
+    
    <br>![Snake animation](https://github.com/thaistrindad/thaistrindad/blob/output/github-contribution-grid-snake.svg)
+   
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Rm3AzqiTqGhx8gjeKu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PMStudios-rat-sitting-sit-Rm3AzqiTqGhx8gjeKu">via GIPHY</a></p>
